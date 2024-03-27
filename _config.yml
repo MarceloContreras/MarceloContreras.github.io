@@ -1,4 +1,5 @@
 # add the following to _config.yml file
-title: Marcelo Contreras' portfolio
+title: Marcelo Contreras
 theme: jekyll-theme-minimal
+logo: /assets/img/Marcelo.jpg
 
