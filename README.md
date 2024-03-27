@@ -14,7 +14,7 @@ Previously, I received my Bachelor's degree in Mechatronics Engineering with a m
 * **January 2024: Paper submitted@T-NSRE** Our work on *Transfer Learning Cross-domain with Active Sampling for Rapid Training in BCI-P300* was submitted to IEEE Transactions on Neural Systems and Rehabilitation Engineering (T-NSRE).
 * **December 2024: <code style="color : green">Defended Bachelor Thesis</code>** about uncertainty robustness in SSVEP classification by a Fuzzy-Transformer DNN. 
 * **August 2023: Paper accepted@ITSC 2023** Our work on [A Stereo Visual Odometry Framework with Augmented Perception for Dynamic Urban Environments](https://ieeexplore.ieee.org/abstract/document/10421981) was accepted to IEEE ITSC 2023 as a regular conference paper.
-* **January 2023: Research intership** is funded with <code style="color : aqua">ELAP</code> scholarship granted by the Global Affairs Canada’s International Scholarships Program. Worked with Professor [Ehsan Hashemi](https://apps.ualberta.ca/directory/person/ehashemi) in the NODE Lab at University of Alberta. 
+* **January 2023: Research intership** is funded with <code style="color : orange">ELAP</code> scholarship granted by the Global Affairs Canada’s International Scholarships Program. Worked with Professor [Ehsan Hashemi](https://apps.ualberta.ca/directory/person/ehashemi) in the NODE Lab at University of Alberta. 
 
 
 ## Publications
