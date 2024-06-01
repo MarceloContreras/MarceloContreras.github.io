@@ -2,7 +2,13 @@ I am currently a Master's student at University of Alberta working with Professo
 
 Previously, I received my Bachelor's degree in Mechatronics Engineering with a minor in robotics from the Universidad de Ingenieria y Tecnologia, Lima, Peru in 2023. My thesis was focused on *electroencephalography (EEG) decoding* for stimulus prediction through a **Transformer DNN** fused with **Interval Fuzzy Type-2 (IFT2)** units that can handle uncertainties and improve predictions, and it was supervised by Professor [Christian Flores](https://scholar.google.com/citations?user=kHwwJn4AAAAJ&hl=pt-BR)
 
-<p style="text-align: center;">[Google Scholar](https://scholar.google.com/citations?user=nUF0J2IAAAAJ&hl=es),[CV](/assets/Resume.pdf),[Linkedin](https://www.linkedin.com/in/marcelo-contreras-cabrera/)</p>
+<div align="center">
+  <p>
+  </p>
+
+[Google Scholar](https://scholar.google.com/citations?user=nUF0J2IAAAAJ&hl=es) | [CV](/assets/Resume.pdf) | [Linkedin](https://www.linkedin.com/in/marcelo-contreras-cabrera/)
+
+</div>
 
 ## Education
 
