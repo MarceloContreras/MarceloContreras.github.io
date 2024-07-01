@@ -13,7 +13,9 @@ Previously, I received my Bachelor's degree in Mechatronics Engineering with a m
 * B.S Mechatronics. Eng, Universidad de Ingenieria y Tecnologia, Peru (2019-2023)
 
 ## News
-
+* **July 2024: Paper accepted@IEEE T-NSRE:** Our work on [Transfer Learning with Active Sampling for Rapid Training and Calibration in BCI-P300 Across Health States and Multi-centre Data](https://ieeexplore.ieee.org/document/10578037) was accepted to IEEE T-NSRE
+* **June 2024: Paper accepted@IEEE T-IV:** Our work on [DynaNav-SVO: Dynamic Stereo Visual Odometry With Semantic-Aware Perception for Autonomous Navigation](https://ieeexplore.ieee.org/abstract/document/10561598/) was accepted to IEEE T-IV
+* **April 2024** I am member of the organizing committee of [IEEE ITSC 2024](https://ieee-itsc.org/2024/)
 * **March 2024: <code style="color : green">Accepted as Master's student</code>** in University of Alberta under the supervision of Professor [Ehsan Hashemi](https://apps.ualberta.ca/directory/person/ehashemi) as part of his laboratory (NODE Lab).
 * **February 2024: Paper accepted@Frontiers:** Our work on [A Survey on 3D Object Detection in Real Time for Autonomous Driving](https://www.frontiersin.org/articles/10.3389/frobt.2024.1212070/full) was accepted to Frontiers in Robotics and AI Journal. 
 * **January 2024: Paper submitted@T-NSRE** Our work on *Transfer Learning Cross-domain with Active Sampling for Rapid Training in BCI-P300* was submitted to IEEE Transactions on Neural Systems and Rehabilitation Engineering (T-NSRE).
@@ -23,6 +25,20 @@ Previously, I received my Bachelor's degree in Mechatronics Engineering with a m
 
 
 ## Publications
+
+### [Transfer Learning with Active Sampling for Rapid Training and Calibration in BCI-P300 Across Health States and Multi-centre Data](https://ieeexplore.ieee.org/document/10578037)
+[Christian Flores](https://scholar.google.com/citations?user=kHwwJn4AAAAJ&hl=pt-BR); Marcelo Contreras; Ichiro Macedo; [Javier Andreu-Perez](https://scholar.google.com/citations?user=1m4DHQQAAAAJ&hl=en) 
+
+*IEEE Transactions on Neural Systems and Rehabilitation Engineering*
+
+Machine learning and deep learning advancements have boosted Brain-Computer Interface (BCI) performance, but their wide-scale applicability is limited due to factors like individual health, hardware variations, and cultural differences affecting neural data. Studies often focus on uniform single-site experiments in uniform settings, leading to high performance that may not translate well to real-world diversity. Deep learning models aim to enhance BCI classification accuracy, and transfer learning has been suggested to adapt models to individual neural patterns using a base model trained on others’ data. This approach promises better generalizability and reduced overfitting, yet challenges remain in handling diverse and imbalanced datasets from different equipment, subjects, multiple centres in different countries, and both healthy and patient populations for effective model transfer and tuning. In a setting characterized by maximal heterogeneity, we proposed P300 wave detection in BCIs employing a convolutional neural network fitted with adaptive transfer learning based on Poison Sampling Disk (PDS) called Active Sampling (AS), which flexibly adjusts the transition from source data to the target domain. Our results reported for subject adaptive with 40% of adaptive fine-tuning that the averaged classification accuracy improved by 5.36% and standard deviation reduced by 12.22% using two distinct, internationally replicated datasets. These results outperformed in classification accuracy, computational time, and training efficiency, mainly due to the proposed Active Sampling (AS) method for transfer learning.
+
+### [DynaNav-SVO: Dynamic Stereo Visual Odometry With Semantic-Aware Perception for Autonomous Navigation](https://ieeexplore.ieee.org/abstract/document/10561598/)
+Marcelo Contreras; [Neel Pratik Bhatt](https://scholar.google.com/citations?user=S8ofWDUAAAAJ&hl=en); [Ehsan Hashemi](https://scholar.google.com/citations?user=-9MfEXMAAAAJ&hl=en)
+
+*IEEE Transactions on Intelligent Vehicles*
+
+Conventional visual navigation methods presume scene stability and encounter challenges due to moving objects in highly dynamic environments. We propose DynaNav-SVO, a stereo visual odometry (VO) framework, which semantically detects and constructs a region-of-interest (ROI) by focusing on a-priori urban fixed elements for reliable feature extraction and subsequently estimates vehicle pose. The outcome is a static map with minimal outliers and is used for state estimation in dynamic scenes and perceptually degraded conditions. This map enhances computational efficiency due to the reduced size of the new static mask (as confirmed in several experiments), compared to the existing visual simultaneous localization and mapping (vSLAM) solutions. To refine the estimated pose, a back-end module selects a moving horizon of frames, generates a covisibility graph for data association, and optimizes a structure-from-motion program using local bundle adjustment. Finally, the performance of the framework is experimentally evaluated using a test vehicle in highly-dynamic urban settings and under adverse weather conditions with degraded visual perception with varying sequence lengths. The experiments confirm excellent performance in terms of estimation accuracy and computational efficiency for autonomous navigation compared to existing vSLAM methods.
 
 ### [A Survey on 3D Object Detection in Real Time for Autonomous Driving](https://www.frontiersin.org/articles/10.3389/frobt.2024.1212070/full)
 Marcelo Contreras; Aayush Jain; [Neel Pratik Bhatt](https://scholar.google.com/citations?user=S8ofWDUAAAAJ&hl=en); [Arunava Banerjee](https://scholar.google.co.in/citations?user=Bol-rwwAAAAJ&hl=en); [Ehsan Hashemi](https://scholar.google.com/citations?user=-9MfEXMAAAAJ&hl=en)
