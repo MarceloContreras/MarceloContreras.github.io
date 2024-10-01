@@ -43,7 +43,7 @@ layout: default
     <!-- News -->
     {% if page.news and site.announcements.enabled %}
       <h2>
-        <a href="{{ '/news/' | relative_url }}" style="color: inherit">News</a>
+        <a href="{{ '/news/' | relative_url }}" style="color: inherit"> 🔥 News</a>
       </h2>
       {% include news.liquid limit=true %}
     {% endif %}
@@ -59,23 +59,23 @@ layout: default
     <!-- Selected papers -->
     {% if page.selected_papers %}
       <h2>
-        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Selected publications</a>
+        <a href="{{ '/publications/' | relative_url }}" style="color: inherit"> 📝 Selected publications</a>
       </h2>
       {% include selected_papers.liquid %}
     {% endif %}
 
-    <h2><a style="color: inherit;">Academic Service</a></h2>
-            <h3><a style="color: inherit;">Organizing</a></h3>
-            <ul>
-              <li>Organizer of the ECCV 2024 Workshop on Robust, Out-of-Distribution And Multi-Modal models for Autonomous Driving <a href="https://sites.google.com/view/roameccv2024/home">(ROAM)</a>
-              </li>
-            </ul>
-            
-            <h3><a style="color: inherit;">Reviewing</a></h3>
-            <ul>
-              <li>Reviewer of IEEE Intelligent Transportation Systems Conference <a href="https://ieeexplore.ieee.org/xpl/conhome/1000396/all-proceedings">(ITSC)</a>
-              </li>
-            </ul>
+    <h2><a style="color: inherit;"> 🎓 Academic Service</a></h2>
+    <h3><a style="color: inherit;">Organizing</a></h3>
+    <ul>
+      <li>Organizer of the ECCV 2024 Workshop on Robust, Out-of-Distribution And Multi-Modal models for Autonomous Driving <a href="https://sites.google.com/view/roameccv2024/home">(ROAM)</a>
+      </li>
+    </ul>
+    
+    <h3><a style="color: inherit;">Reviewing</a></h3>
+    <ul>
+      <li>Reviewer of IEEE Intelligent Transportation Systems Conference <a href="https://ieeexplore.ieee.org/xpl/conhome/1000396/all-proceedings">(ITSC)</a>
+      </li>
+    </ul>
 
     <!-- Social -->
     {% if page.social %}
