@@ -9,9 +9,8 @@ profile:
   image: marcelo_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Office 515</p>
-    <p>NINT, 1421 Saskatchewan Dr NW</p>
-    <p>Edmonton, Alberta CA</p>
+    MsC at University of Alberta 
+    Researcher at NODE Lab 
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
