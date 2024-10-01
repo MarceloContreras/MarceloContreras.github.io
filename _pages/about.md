@@ -2,24 +2,23 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.ualberta.ca/en/index.html'>University of Alberta</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: marcelo_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Office 515</p>
+    <p>NINT, 1421 Saskatchewan Dr NW</p>
+    <p>Edmonton, Alberta CA</p>
 
-news: true # includes a list of news items
+news: true  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently a Master's student at University of Alberta working with Professor [Ehsan Hashemi](https://sites.google.com/ualberta.ca/networked-optimization-diagnos/about-us) as part of the [NODE Lab](https://sites.google.com/view/ehsan-hashemi-uwaterloo/home). My research intends to develop *reliable autonomous navigation systems* for *adversarial scenarios* (dynamic surrondings, light conditions and weather) and lies as a mixture of **SLAM**, **Graph Optimization**, **Deep Learning (DL)** and **State Estimation**. I started at NODE Lab as visiting scholar in 2023, supported by the [ELAP](https://www.educanada.ca/scholarships-bourses/can/institutions/elap-pfla.aspx?lang=eng) scholarship granted by Canadian government. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Previously, I received my Bachelor's degree in Mechatronics Engineering with a minor in robotics from the Universidad de Ingenieria y Tecnologia, Lima, Peru in 2023. My thesis was focused on *electroencephalography (EEG) decoding* for stimulus prediction through a **Transformer DNN** fused with **Interval Fuzzy Type-2 (IFT2)** units that can handle uncertainties and improve predictions, and it was supervised by Professor [Christian Flores](https://scholar.google.com/citations?user=kHwwJn4AAAAJ&hl=pt-BR)
