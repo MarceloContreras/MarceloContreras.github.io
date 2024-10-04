@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.ualberta.ca/en/index.html'>University of Alberta</a>
+subtitle: Perception engineering | vSLAM | DL | Motion planning
 
 profile:
   align: right
