@@ -9,7 +9,7 @@ profile:
   image: marcelo_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    MsC at University of Alberta 
+    MsC student at University of Alberta 
     Researcher at NODE Lab 
 
 news: true  # includes a list of news items
