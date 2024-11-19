@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-04-09
+date: 2024-10-07
 inline: true
 related_posts: false
 ---
 
-I am member of the organizing committee of [IEEE ITSC 2024](https://ieee-itsc.org/2024/)
+**Paper accepted@SMC 2024** Our work on *EEG-TCF2Net: A Novel Deep Interval Type-2 Fuzzy Model for Decoding SSVEP in Brain-Computer Interfaces* was accepted to IEEE SMC 2024 as a regular conference paper.

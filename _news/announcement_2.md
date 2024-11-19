@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-06-20 
+date: 2024-07-12 
 inline: true
 related_posts: false
 ---
 
-**Paper accepted@IEEE T-IV:** Our work on [DynaNav-SVO: Dynamic Stereo Visual Odometry With Semantic-Aware Perception for Autonomous Navigation](https://ieeexplore.ieee.org/abstract/document/10561598/) was accepted to IEEE T-IV
+**Paper accepted@IEEE T-NSRE:** Our work on [Transfer Learning with Active Sampling for Rapid Training and Calibration in BCI-P300 Across Health States and Multi-centre Data](https://ieeexplore.ieee.org/document/10578037) was accepted to IEEE T-NSRE

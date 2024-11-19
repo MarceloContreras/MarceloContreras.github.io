@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-01-10 
+date: 2024-04-09
 inline: true
 related_posts: false
 ---
 
-**Paper submitted@T-NSRE:** Our work on *Transfer Learning Cross-domain with Active Sampling for Rapid Training in BCI-P300* was submitted to IEEE Transactions on Neural Systems and Rehabilitation Engineering (T-NSRE).**
+I am member of the organizing committee of [IEEE ITSC 2024](https://ieee-itsc.org/2024/)

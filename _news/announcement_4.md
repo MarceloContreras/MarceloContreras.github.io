@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-02-25 
+date: 2024-06-20 
 inline: true
 related_posts: false
 ---
 
-**<code style="color : green">Accepted as Master's student</code>** in University of Alberta under the supervision of Professor [Ehsan Hashemi](https://apps.ualberta.ca/directory/person/ehashemi) as part of his laboratory (NODE Lab).
+**Paper accepted@IEEE T-IV:** Our work on [DynaNav-SVO: Dynamic Stereo Visual Odometry With Semantic-Aware Perception for Autonomous Navigation](https://ieeexplore.ieee.org/abstract/document/10561598/) was accepted to IEEE T-IV
