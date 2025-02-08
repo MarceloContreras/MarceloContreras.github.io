@@ -2,7 +2,7 @@
   type: map
   contents:
     - name: Full Name
-      value: Marcelo Jafett Contreras Cabrerea
+      value: Marcelo Jafett Contreras Cabrera
     - name: Date of Birth
       value: 21st November 2011
     - name: Languages
@@ -16,7 +16,7 @@
       year: 2024
       description:
         - Major in Mechanical Engineering
-        - Researching in autonomous navigation in challenging enviorenments
+        - Researching in autonomous navigation in challenging environments
         - Under the supervision of Dr.Ing.Ehsan Hashemi
     - title: BsC
       institution: Universidad de Ingenieria y Tecnologia, Lima, Peru
