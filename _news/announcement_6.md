@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-02-25 
+date: 2024-04-09
 inline: true
 related_posts: false
 ---
 
-**<code style="color : green">Accepted as Master's student</code>** in University of Alberta under the supervision of Professor [Ehsan Hashemi](https://apps.ualberta.ca/directory/person/ehashemi) as part of his laboratory (NODE Lab).
+I am member of the organizing committee of [IEEE ITSC 2024](https://ieee-itsc.org/2024/)

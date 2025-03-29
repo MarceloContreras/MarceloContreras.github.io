@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-12-05
+date: 2024-01-10 
 inline: true
 related_posts: false
 ---
 
-**<code style="color : green">Defended Bachelor Thesis</code>** about uncertainty robustness in SSVEP classification by a Fuzzy-Transformer DNN. 
+**Paper submitted@T-NSRE:** Our work on *Transfer Learning Cross-domain with Active Sampling for Rapid Training in BCI-P300* was submitted to IEEE Transactions on Neural Systems and Rehabilitation Engineering (T-NSRE).**

@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-04-09
+date: 2024-06-20 
 inline: true
 related_posts: false
 ---
 
-I am member of the organizing committee of [IEEE ITSC 2024](https://ieee-itsc.org/2024/)
+**Paper accepted@IEEE T-IV:** Our work on [DynaNav-SVO: Dynamic Stereo Visual Odometry With Semantic-Aware Perception for Autonomous Navigation](https://ieeexplore.ieee.org/abstract/document/10561598/) was accepted to IEEE T-IV

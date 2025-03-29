@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-01-10 
+date: 2024-02-25 
 inline: true
 related_posts: false
 ---
 
-**Paper submitted@T-NSRE:** Our work on *Transfer Learning Cross-domain with Active Sampling for Rapid Training in BCI-P300* was submitted to IEEE Transactions on Neural Systems and Rehabilitation Engineering (T-NSRE).**
+**<code style="color : green">Accepted as Master's student</code>** in University of Alberta under the supervision of Professor [Ehsan Hashemi](https://apps.ualberta.ca/directory/person/ehashemi) as part of his laboratory (NODE Lab).
