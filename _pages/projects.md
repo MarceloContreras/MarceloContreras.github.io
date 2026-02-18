@@ -29,26 +29,26 @@ order: 3       # adjust to control position in navbar
   </a>
 
 - **Designing a non-linear controller for an EV with brushless motors**
-  We designed a cascade controller for speed control of an EV by combining a PID controller for low-level control of the brushless motor actuator with a chosen nonlinear controller. We evaluated Sliding mode controller, Feedback linearization, and Adaptive control architectures. **Tools**: MATLAB <a href="assets/pdf/Control_no_lineal_Proyecto.pdf">
+  We designed a cascade controller for speed control of an EV by combining a PID controller for low-level control of the brushless motor actuator with a chosen nonlinear controller. We evaluated Sliding mode controller, Feedback linearization, and Adaptive control architectures. **Tools**: MATLAB <a href="/assets/pdf/Control_no_lineal_Proyecto.pdf">
      <img src="https://www.svgrepo.com/show/424860/pdf-file-type.svg" height="15em" style="vertical-align: middle;">
   </a>
   
 - **Extending Boston Dynamics Spot Arm to 7 DoF**
   We modify the Spot Arm to include an additional DoF for better dexterity in manipulation tasks. We 3D model the arm, import its mesh, and create a URDF file for loading in Gazebo. We also analyzed the direct and inverse kinematics of the arm, and designed two controllers to handle the kinematic and dynamic behaviour. **Tools**: ROS 1, C++, Python, Fusion 360, RBDL, Gazebo <a href="https://github.com/MarceloContreras/FR_proyecto">
      <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" height="15em" style="vertical-align: middle;">
-  </a> <a href="assets/pdf/FRobotica_Proyecto%20(1).pdf">
+  </a> <a href="/assets/pdf/FRobotica_Proyecto%20(1).pdf">
      <img src="https://www.svgrepo.com/show/424860/pdf-file-type.svg" height="15em" style="vertical-align: middle;">
   </a>
 
 - **Automated shrimp feeding system powered by computer vision**
-  Integrated tank-mounted cameras with real-time image processing to monitor food density to automate the shrimp feeding with a low-cost computer platform. I was in charge of the communication protocols (I2C and Serial) between the main system (Raspberry PI-3) and an MCU (Arduino Pro Mini), and real-time food segmentation. **Tools**: Python, I2C, Raspberry-PI, OpenCV <a href="assets/pdf/Informe_Final___DSM.pdf">
+  Integrated tank-mounted cameras with real-time image processing to monitor food density to automate the shrimp feeding with a low-cost computer platform. I was in charge of the communication protocols (I2C and Serial) between the main system (Raspberry PI-3) and an MCU (Arduino Pro Mini), and real-time food segmentation. **Tools**: Python, I2C, Raspberry-PI, OpenCV <a href="/assets/pdf/Informe_Final___DSM.pdf">
      <img src="https://www.svgrepo.com/show/424860/pdf-file-type.svg" height="15em" style="vertical-align: middle;">
   </a>
 
 - **Synthesis and comparison of two 8-bar linkages for exoskeletons**
   We synthesized two 8-bar linkages (Peaucellier-Lipkin) using real-world data from Tracker to model human gait. We compared several synthesis results using different optimizers (gradient descent, mesh search and stochastic solvers) **Tools**: MATLAB, Tracker Toolbox, Fusion 360. <a href="https://github.com/MarceloContreras/Proyecto-Mecanismos">
      <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" height="15em" style="vertical-align: middle;">
-  </a> <a href="assets/pdf/PROYECTO_FINAL_MECANISMOS.pdf">
+  </a> <a href="/assets/pdf/PROYECTO_FINAL_MECANISMOS.pdf">
      <img src="https://www.svgrepo.com/show/424860/pdf-file-type.svg" height="15em" style="vertical-align: middle;">
   </a>
 
