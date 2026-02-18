@@ -7,17 +7,17 @@ order: 3       # adjust to control position in navbar
 ---
 
 - **Centralized Collaborative SLAM**  
-  Merged an in-house visual SLAM module with an open-source centralized optimization (COVINS) for collaborative map merging with multiple RC Cars. Deploy on a Jetson Nano Super and equip the robot with a Zed mini camera. **Tools**: C++, ROS 1, OpenCV, Ceres, Eigen </a> <a href="/assets/pdf/MEC_E_652_Final_report.pdf">
+  Merged an in-house visual SLAM module with an open-source centralized optimization (COVINS) for collaborative map merging with multiple RC Cars. Deploy on a Jetson Nano Super and equip the robot with a Zed mini camera. **Tools**: C++, ROS 1, OpenCV, Ceres, Eigen <a href="/assets/pdf/MEC_E_652_Final_report.pdf">
      <img src="https://www.svgrepo.com/show/424860/pdf-file-type.svg" height="15em" style="vertical-align: middle;">
   </a>
 
 - **Fuzzified Transformer for EEG Decoding (BSc Thesis)**  
-  Implemented a Neuro-fuzzy block Type 1&2 and integrated into a Transformer Neural Network for EEG SSVEP classification to enhance noise  robustness. **Tools**: Python, Scipy, Pytorch <a href="[https://github.com/youruser/yourproject](https://github.com/MarceloContreras/FuzzySSVEPFormer)">
+  Implemented a Neuro-fuzzy block Type 1&2 and integrated into a Transformer Neural Network for EEG SSVEP classification to enhance noise  robustness. **Tools**: Python, Scipy, Pytorch <a href="https://github.com/MarceloContreras/FuzzySSVEPFormer">
      <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" height="15em" style="vertical-align: middle;">
   </a>
 
 - **Unified autonomous navigation pipeline for Turtlebot 3**  
-  Integrated perception, localization, and planning into a single pipeline to get a unified navigation ROS node for Turtlebot 3, adaptable to changing environments. Designed a two-fold map generation that fuses a static map from ORB-SLAM 3 and the projection of RGB-D images with YOLOv5 to detect moving people. **Tools**: C++, Python, ROS 1, OpenCV, g2o, Pytorch, Gazebo <a href="[https://github.com/youruser/yourproject](https://github.com/MarceloContreras/Autonomous-Nav)">
+  Integrated perception, localization, and planning into a single pipeline to get a unified navigation ROS node for Turtlebot 3, adaptable to changing environments. Designed a two-fold map generation that fuses a static map from ORB-SLAM 3 and the projection of RGB-D images with YOLOv5 to detect moving people. **Tools**: C++, Python, ROS 1, OpenCV, g2o, Pytorch, Gazebo <a href="https://github.com/MarceloContreras/Autonomous-Nav">
      <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" height="15em" style="vertical-align: middle;">
   </a> <a href="/assets/pdf/RAu_proyecto-compressed%20(1).pdf">
      <img src="https://www.svgrepo.com/show/424860/pdf-file-type.svg" height="15em" style="vertical-align: middle;">
